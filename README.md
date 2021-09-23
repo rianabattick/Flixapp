@@ -60,7 +60,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 
 
-https://raw.githubusercontent.com/rianabattick/Flixterapp/master/Flixterapp.gif
+https://raw.githubusercontent.com/rianabattick/Flixapp/master/Flixterapp2.gif
 
 ### Notes
 Encountered errors due to updates and different versions. Coudn't show the ladnscape orientation in the gif.
